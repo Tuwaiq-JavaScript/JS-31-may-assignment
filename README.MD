@@ -1,12 +1,12 @@
-# Questions and Exercises
+# Week 1 May 31 Assignment
 
 ## Guidelines 
 all these exercises must be done in node files
 
-1. using only arrays or objects, and loops, implement a chess board (with its pieces) in the terminal use the following diagram is an example of how to show it in the termnial.
-Do Not Hard Code the board.
-
- a-b-c-d-f-g-h
+1. using only arrays or objects, and loops, implement a chess board (with its pieces) in the terminal use the following diagram is an example of how to show it in the termnial.    
+NOTE: Do Not Hard Code the board.
+```javascript
+ a-b-c-d-f-g-h  
 | | | | | | | | 1
 ---------------
 | | | | | | | | 2
@@ -23,6 +23,7 @@ Do Not Hard Code the board.
 ---------------
 | | | | | | | | 8
 ---------------
+```
 
 2. given these objects:
 ```javascript
