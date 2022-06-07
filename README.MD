@@ -1,4 +1,4 @@
-# Week 1 May 31 Assignment
+# HW02
 
 ## Guidelines 
 all these exercises must be done in node files
